@@ -1,0 +1,3 @@
+[submodule "PHP_CodeSniffer"]
+	path = PHP_CodeSniffer
+	url = git@github.com:dsoundmn/PHP_CodeSniffer.git
